@@ -1,0 +1,8 @@
+local --> VM Server -->  add all the source codes 
+
+VM SERVER --> path --> check out --> local --> work locally --> check-in
+
+https://www.youtube.com/watch?v=AzfVDEBn9hw
+
+
+Google - how to access GIT in Unix Server?
